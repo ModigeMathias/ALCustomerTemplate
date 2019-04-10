@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "publisher": "NaviPartner",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./_Logo/NP-small-logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99000
+  },
+  "target":  "Internal"  
+}
